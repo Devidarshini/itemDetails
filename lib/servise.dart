@@ -1,6 +1,4 @@
 import 'dart:convert';
-
-import 'package:dummy/model/resModel.dart';
 import 'package:flutter/services.dart';
 
 
